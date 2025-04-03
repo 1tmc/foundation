@@ -4,6 +4,8 @@ import { useState } from "react"
 import VideoPopup from "@/modals/VideoPopup"
 import BecomeVolunteerForm from "@/components/forms/BecomeVolunteerForm"
 
+import volunteerImg_1 from "@/assets/img/valunteer/valunteer2.png"
+import volunteerImg_2 from "@/assets/img/valunteer1.jpg"
 import volunteerImg_3 from "@/assets/img/valunteer/valunteer-left.png"
 
 const BecomeVolunteer = ({ style }: any) => {
