@@ -30,25 +30,7 @@ const portfolio_data: DataType[] = [
       thumb: portfolioThumb_3,
       title: "Helping Homeless People",
       category: "Homeless",
-   },
-   {
-      id: 4,
-      thumb: portfolioThumb_4,
-      title: "Helping Homeless People",
-      category: "Homeless",
-   },
-   {
-      id: 5,
-      thumb: portfolioThumb_5,
-      title: "Helping Homeless People",
-      category: "Homeless",
-   },
-   {
-      id: 6,
-      thumb: portfolioThumb_6,
-      title: "Helping Homeless People",
-      category: "Homeless",
-   },
+   }
 ]
 
 export default portfolio_data;
